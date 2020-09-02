@@ -1,0 +1,7 @@
+Olá user ${EMBASSY_NAME}!
+
+This is a test: ${COUNTRY_NAME}.
+
+Att,
+Thiago Henrique Ferreira
+Tel: +55 (34) 99244-1087
